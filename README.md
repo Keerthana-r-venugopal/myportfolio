@@ -1,11 +1,13 @@
+![portfolio](https://github.com/Keerthana-r-venugopal/myportfolio/assets/158607664/5a59ca8d-7d8f-4663-8595-254105f9510d)
+
 ⚙️ Tech Stack
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-Email JS
-Vite
-Tailwind CSS
+React.js -
+Three.js -
+React Three Fiber -
+React Three Drei -
+Email JS -
+Vite -
+Tailwind CSS.
 
 🔋 Features
 👉 Customizable 3D Hero Section: Includes a 3D desktop model easily customizable to suit specific needs.
