@@ -2,7 +2,7 @@
 
 The website is live on this link: https://myportfolio-five-rose.vercel.app/
 
-My website is built using React JS, Javascript, CSS, and Html, offering a user-friendly experience with captivating visuals and seamless functionality.
+My Portfolio website offers a user-friendly experience with captivating visuals and seamless functionality.
 
 Dive into my professional journey, where every project represents a milestone. From traditional lessons to invaluable mentorship and personal growth, my experiences have shaped me into a versatile and dedicated professional.
 
