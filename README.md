@@ -1,6 +1,6 @@
 ![portfolio](https://github.com/Keerthana-r-venugopal/myportfolio/assets/158607664/5a59ca8d-7d8f-4663-8595-254105f9510d)
 
-The website is live on this link: https://myportfolio-five-rose.vercel.app/
+The website is live do check it out: https://myportfolio-five-rose.vercel.app/
 
 My Portfolio website offers a user-friendly experience with captivating visuals and seamless functionality.
 
