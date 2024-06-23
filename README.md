@@ -10,10 +10,10 @@ Dive into my professional journey, where every project represents a milestone. F
 Interested in learning more about my projects or have questions about my journey? Feel free to reach out and start a conversation. I'm always open to sharing insights and connecting with fellow learners and professionals.
 
 # ⚙️ Tech Stack
-React.js -
-Three.js -
-React Three Fiber -
-React Three Drei -
-Email JS -
-Vite -
-Tailwind CSS.
+React.js 
+<br>Three.js
+<br>React Three Fiber 
+<br>React Three Drei 
+<br>Email JS 
+<br>Vite 
+<br>Tailwind CSS.
