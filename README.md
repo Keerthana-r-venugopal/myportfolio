@@ -17,3 +17,6 @@ Interested in learning more about my projects or have questions about my journey
 <br>• Email JS 
 <br>• Vite 
 <br>• Tailwind CSS.
+
+# Contributing
+Feel free to contribute to this project by creating pull requests, reporting issues, or suggesting new features.
