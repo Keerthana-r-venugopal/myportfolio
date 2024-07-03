@@ -52,7 +52,7 @@ const About = () => {
 
         <br></br>
         <br></br>
-        <h6><a href = { resume } download>   Download Resume ➡️</a></h6>
+{/*         <h6><a href = { resume } download>   Download Resume ➡️</a></h6> */}
 
       </motion.p>
 
